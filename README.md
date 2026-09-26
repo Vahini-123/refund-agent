@@ -6,7 +6,7 @@ Built for the Jobform Automator Next.js Developer take-home assignment.
 
 ## Demo
 
-- **Live walkthrough video:** [add your Loom/Drive link here]
+- **Live walkthrough video:** [https://drive.google.com/file/d/1dNQxwLFfSdcA0ymmY9J6ylSz2B1CT0HP/view?usp=sharing]
 - **Customer chat:** `http://localhost:3000`
 - **Admin dashboard:** `http://localhost:3000/admin`
 
