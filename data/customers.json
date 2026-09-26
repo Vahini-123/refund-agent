@@ -1,0 +1,94 @@
+[
+  {
+    "id": "C001", "name": "Aarav Sharma", "email": "aarav.sharma@example.com", "tier": "gold", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1001", "item": "Wireless Headphones", "price": 79.99, "purchaseDate": "2026-09-14", "status": "delivered", "category": "electronics", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C002", "name": "Priya Patel", "email": "priya.patel@example.com", "tier": "silver", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1002", "item": "Running Shoes", "price": 120.00, "purchaseDate": "2026-08-10", "status": "delivered", "category": "apparel", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C003", "name": "Liam Johnson", "email": "liam.johnson@example.com", "tier": "standard", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1003", "item": "Photo Editing Software License", "price": 59.99, "purchaseDate": "2026-09-19", "status": "delivered", "category": "software", "isDigital": true, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C004", "name": "Emma Wilson", "email": "emma.wilson@example.com", "tier": "gold", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1004", "item": "55-inch 4K OLED TV", "price": 899.00, "purchaseDate": "2026-09-12", "status": "delivered", "category": "electronics", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C005", "name": "Noah Brown", "email": "noah.brown@example.com", "tier": "standard", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1005", "item": "Countertop Blender", "price": 49.00, "purchaseDate": "2026-08-25", "status": "delivered", "category": "home", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C006", "name": "Olivia Davis", "email": "olivia.davis@example.com", "tier": "silver", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1006", "item": "Travel Backpack", "price": 65.00, "purchaseDate": "2026-08-24", "status": "delivered", "category": "accessories", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C007", "name": "Ethan Miller", "email": "ethan.miller@example.com", "tier": "standard", "refundsLast12Months": 2,
+    "orders": [
+      { "orderId": "ORD-1007", "item": "LED Desk Lamp", "price": 35.00, "purchaseDate": "2026-09-16", "status": "delivered", "category": "home", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C008", "name": "Sophia Garcia", "email": "sophia.garcia@example.com", "tier": "gold", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1008", "item": "Yoga Mat", "price": 30.00, "purchaseDate": "2026-09-21", "status": "shipped", "category": "fitness", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C009", "name": "Mason Lee", "email": "mason.lee@example.com", "tier": "standard", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1009", "item": "Clearance Winter Jacket", "price": 40.00, "purchaseDate": "2026-09-04", "status": "delivered", "category": "apparel", "isDigital": false, "finalSale": true }
+    ]
+  },
+  {
+    "id": "C010", "name": "Isabella Martinez", "email": "isabella.martinez@example.com", "tier": "silver", "refundsLast12Months": 1,
+    "orders": [
+      { "orderId": "ORD-1010", "item": "Coffee Maker", "price": 85.00, "purchaseDate": "2026-09-09", "status": "delivered", "category": "home", "isDigital": false, "finalSale": false },
+      { "orderId": "ORD-1011", "item": "E-book Bundle", "price": 25.00, "purchaseDate": "2026-09-10", "status": "delivered", "category": "books", "isDigital": true, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C011", "name": "Lucas Anderson", "email": "lucas.anderson@example.com", "tier": "gold", "refundsLast12Months": 1,
+    "orders": [
+      { "orderId": "ORD-1012", "item": "Smartwatch", "price": 199.00, "purchaseDate": "2026-09-01", "status": "refunded", "category": "electronics", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C012", "name": "Mia Thompson", "email": "mia.thompson@example.com", "tier": "standard", "refundsLast12Months": 1,
+    "orders": [
+      { "orderId": "ORD-1013", "item": "Bluetooth Speaker", "price": 59.00, "purchaseDate": "2026-09-16", "status": "delivered", "category": "electronics", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C013", "name": "Henry White", "email": "henry.white@example.com", "tier": "silver", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1014", "item": "Gaming Laptop", "price": 1250.00, "purchaseDate": "2026-08-30", "status": "delivered", "category": "electronics", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C014", "name": "Ava Harris", "email": "ava.harris@example.com", "tier": "gold", "refundsLast12Months": 0,
+    "orders": [
+      { "orderId": "ORD-1015", "item": "Store Gift Card", "price": 100.00, "purchaseDate": "2026-09-22", "status": "delivered", "category": "gift_card", "isDigital": true, "finalSale": false },
+      { "orderId": "ORD-1016", "item": "Canvas Sneakers", "price": 95.00, "purchaseDate": "2026-09-20", "status": "delivered", "category": "apparel", "isDigital": false, "finalSale": false }
+    ]
+  },
+  {
+    "id": "C015", "name": "James Clark", "email": "james.clark@example.com", "tier": "standard", "refundsLast12Months": 2,
+    "orders": [
+      { "orderId": "ORD-1017", "item": "27-inch Monitor", "price": 650.00, "purchaseDate": "2026-09-22", "status": "delivered", "category": "electronics", "isDigital": false, "finalSale": false }
+    ]
+  }
+]
